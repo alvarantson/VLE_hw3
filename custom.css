@@ -36,3 +36,15 @@ footer {
     margin-top: 60px;
     padding: 5em;
 }
+.jumbotron {
+    text-align: center;
+    min-height: 45vh;
+    color: white;
+    text-shadow: 1px 1px black;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: black;
+}
+.jumbotron h1 {
+    margin-top: 10vh;
+}
